@@ -1,1 +1,36 @@
-https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20221129%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221129T201622Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=fc22158a12f0df062b34ad3069e93becc63b7c8bf0ce06fee8949dd90daf314e
+![image](https://user-images.githubusercontent.com/32038582/204645950-419f9444-ec5d-41a5-b05d-bce953792dbb.png)
+Background Context...
+
+Welcome to the AirBnB clone project!
+
+Web static
+
+    learn HTML/CSS
+    create the HTML of your application
+    create template of each object
+
+MySQL storage
+
+    replace the file storage by a Database storage
+    map your models to a table in database by using an O.R.M.
+
+Web framework - templating
+
+    create your first web server in Python
+    make your static HTML file dynamic by using objects stored in a file or database
+
+RESTful API
+
+    expose all your objects stored via a JSON web interface
+    manipulate your objects via a RESTful API
+
+Web dynamic
+
+    learn JQuery
+    load objects from the client side by using your own RESTful API
+    
+
+Authors:
+
+    # https://github.com/Swapdevs => Christopher Akinsanmi "Christopher.akinsanmi@gmail.com"
+    # megalous-lab => 
