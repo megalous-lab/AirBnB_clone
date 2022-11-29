@@ -28,7 +28,9 @@ Web dynamic
 
     learn JQuery
     load objects from the client side by using your own RESTful API
+    
 
 Authors:
-Swapdevs => Christopher Akinsanmi "Christopher.akinsanmi@gmail.com"
-megalous-lab => 
+
+    Swapdevs => Christopher Akinsanmi "Christopher.akinsanmi@gmail.com"
+    megalous-lab => 
