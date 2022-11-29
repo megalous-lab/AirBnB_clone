@@ -32,5 +32,5 @@ Web dynamic
 
 Authors:
 
-    Swapdevs => Christopher Akinsanmi "Christopher.akinsanmi@gmail.com"
+    https://github.com/Swapdevs => Christopher Akinsanmi "Christopher.akinsanmi@gmail.com"
     megalous-lab => 
