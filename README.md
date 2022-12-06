@@ -33,4 +33,4 @@ Web dynamic
 Authors:
 
     # https://github.com/Swapdevs => Christopher Akinsanmi "Christopher.akinsanmi@gmail.com"
-    # https://github.com/megalous-lab => Abdmuizz 
+    # https://github.com/megalous-lab => Abdmuizz Yekeen "yekeenabdmuizz@gmail.com"
